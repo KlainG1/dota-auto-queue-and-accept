@@ -1,5 +1,6 @@
 # Dota 2 Queue-And-Go Reborn by Klain
-Dota 2 Queue-And-Go Reborn https://github.com/etofok/Dota-2-Queue-and-Go?ysclid=mvgtudct6v551548766
+Dota 2 Queue-And-Go https://github.com/etofok/Dota-2-Queue-and-Go?ysclid=mvgtudct6v551548766 (original code)
+
 Automate matchmaking and match acceptance in Dota 2. The script helps handle match-found prompts and automatically returns to the queue if a match fails to start.
 
 ## (!) IMPORTANT: REQUIREMENTS
